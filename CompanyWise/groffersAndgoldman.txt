@@ -1,0 +1,46 @@
+Grofers -
+B+ Trees
+pthread python
+In 27 coins one coin is counterfeit what is the minimum number of waitings to find out the counterfeit coin(we don’t know whether the counterfiet coin is light or heavy then normal coins).
+What is B+ tree.
+What is index key
+Graph
+Binary Search tree, inserting a node at appropriate position
+NoSQL, SQL
+Implement round robin scheduling and calculate average waiting time.
+Insert a node in sorted circular linked list
+Design Database Schema
+difference between git and svn  
+In a BST, two nodes are swapped. Find the nodes.  
+In a sorted array having repeated elements any number of time. Given a element find its no. of occurrences.
+
+
+puzzles
+100 prisoners and red/black hats,
+ 5 pirates and 100 gold coins,
+ pentagon probability and 4 equilateral triangles using 4 match sticks
+https://en.wikipedia.org/wiki/Bridge_and_torch_problem.
+
+
+Grofers preparation -
+1. Aptitude 
+2. GFG Puzzles
+3. Trees verticle order
+4. Simple DP
+5. Graph
+6. Adobe dev story
+7. SQl database design
+
+
+Golman Sach -
+1. Heap
+2. Linklist recursive
+3. DP
+4. Writing and solving recurrence relation
+5. trie
+6. OS, Networking, OOP
+7. All question from array and dp
+8. puzzles and apti
+
+
+

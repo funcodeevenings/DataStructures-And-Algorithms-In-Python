@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodeJs Interview questions",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node checkHealth.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodeJs",
+    "Interview",
+    "questions"
+  ],
+  "author": "Aditi",
+  "license": "ISC"
+}

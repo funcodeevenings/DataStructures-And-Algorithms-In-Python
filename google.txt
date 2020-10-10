@@ -1,0 +1,108 @@
+Top 20 Things That Google Looks for In Candidates 
+1. Cognitive ability manifested by a capacity to learn
+
+2. Intense curiosity
+
+3. Innovativeness
+
+4. Ability to adapt to change
+
+5. Algorithmic thinking
+
+6. Facility with writing computer code
+
+7. Divergent thinking
+
+8. Statistical analysis skills
+
+9. Ability to mine big data
+
+10. Humility and ability to give credit to others
+
+11. Analytical skills to solve problems
+
+12. Individuals with diverse backgrounds
+
+13. Management style characterized by empowering others
+
+14. Action oriented
+
+15. Demonstrated ability to take on challenges and persist to overcome obstacles
+
+16. Evidence of active leadership with a balance between passionately influencing others and accepting superior ideas of others
+
+17. Candidates who attack problems head-on
+
+18. Evidence of taking ownership and being accountable for projects
+
+19. Collaborative teamwork
+
+20. Comfort with ambiguity
+
+Syllabus - 
+
+probability theory 
+combinatorics
+data structures - stack,q,tree,graph,trie
+algorithms - dijkstra, a*, knapsack
+math
+unit testing the code
+system design - 5+ years
+recursion
+OS - process, thread, concurrency, resource allocation, context switching
+underlying hardware
+scheduling
+interfaces, class hierarchies, distributed systems
+networking - load balancer, firewall, routers, DNS
+write readable, simple and bug free code
+
+6 things to do while solving -
+1. Repeat the question in your own words
+2. Check assumptions
+3. Use real examples
+4. Brainstorm solutions and their time/space complexity
+5. Write working code (no pseudo-code please!)
+6. Test your code, always
+
+Interview Feedback -
+Analytical Ability, Coding, Experience, and Communication
+
+
+I mostly focused on solving Leetcode questions. I practiced the following data structures:
+
+Stacks and Queues
+Heaps (Don’t ignore this data structure)
+Hashmaps (Very important data structure)
+Binary Tree, Binary Search Tree
+Linked List
+Double ended queue
+Tries (Prefix-tree)
+Segment Tree
+Graph
+Disjoint sets
+I practiced the following algorithms:
+
+Depth First Search
+Breadth First Search
+Recursive and iterative pre-order traversal
+Recursive and iterative post-order traversal
+Recursive and iterative in-order traversal
+binary search algorithm on binary search trees and sorted arrays
+Dijkstra and A-star
+Merge sort and Quick sort
+Dynamic Programming, Greedy Algorithms, Recursion
+
+whiteboard thursday series
+
+
+
+
+
+
+
+
+
+
+
+
+
